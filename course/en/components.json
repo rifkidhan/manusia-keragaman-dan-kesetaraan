@@ -1,0 +1,686 @@
+[
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Faktor dan syarat",
+    "displayTitle": "",
+    "body": "<p>Ada tiga macam istilah yang digunakan untuk menggambarkan masyarakat yang majemuk yang terdiri dari ras, agama, bahasa dan budaya yang berbeda yaitu:</p>",
+    "_id": "5f356db0ed475307f079219b",
+    "_parentId": "5f356db0ed475307f0792191",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pluralitas",
+        "body": "<p>Pluralitas adalah&nbsp;mengandaikan adanya hal-hal yang lebih dari satu <em>(many).</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Keragaman",
+        "body": "<p>Keragaman adalah&nbsp;menunjukan bahwa keberadaan yang lebih dari satu itu berbeda-beda, heterogen dan bahkan tidak dapat disamakan.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Multikultural",
+        "body": "<p>Inti dari multikuturalisme adalah kesediaan menerima kelompok lain&nbsp; secara sama sebagai kesatuan tanpa memperdulikan perbedaan budaya, etnik, <em>gender</em>, bahasa ataupun agama.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "KERAGAMAN",
+    "displayTitle": "KERAGAMAN",
+    "body": "<p>Keragaman adalah suatu kondisi dalam masyarakat dimana terdapat perbedaan-perbedaan dalam berbagai bidang terutama suku bangsa, ras, agama, ideologi, budaya. (masyarakat yang mejemuk).&nbsp;Keragaman dalam masyarakat adalah sebuah keadaan yang menunjukkan perbedaan yang cukup banyak macam atau jenisnya dalam masyarakat</p>",
+    "_id": "5f356db0ed475307f079219c",
+    "_parentId": "5f356db0ed475307f0792190",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Istilah majemuk pertama kali diperkenalkan oleh Furnivall, dalam:</p><ol><li>Menggambarkan masyarakat Indonesia pada masa Hindia Belanda</li><li>Merupakan tipe masyarakat tropis (perbedaan ras antara yang berkuasa dan yang dikuasai)</li><li>Tidak ada kehendak bersama (common will), elemen yg terpisah2 berdasarkan ras</li><li>Masyarakat&nbsp;yang tumbuh di atas dasar sistem kasta tanpa ikatan agama.</li></ol>",
+    "_id": "5f356f8fed475307f07921cf",
+    "_parentId": "5f356effed475307f07921c9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Sifat dasar Masyarakat Majemuk menurut Pierre L. van den Berghe.</p><ol><li>Terjadinya segmentasi ke dalam&nbsp;bentuk kelompok-kelompok&nbsp;yang memiliki subkebudayaan&nbsp;berbeda</li><li>Memiliki struktur sosial yang terbagi-terbagi&nbsp;ke dalam lembaga-lembaga&nbsp;nonkomplementer (saling melengkapi)</li><li>Kurang mengembangkan konsensus di antara para anggota terhadap&nbsp;nilai-nilai&nbsp;yg bersifat dasar</li><li>Relatif mengalami konflik-konflik&nbsp;antar kelompok</li><li>Integrasi sosial tumuh di atas paksaan (<em>coercion</em>) dan saling ketergantungan dalam bidang ekonomi</li><li>Adanya dominasi politik oleh suatu kelompok atas kelompok2 lainnya</li></ol>",
+    "_id": "5f356fbced475307f07921d1",
+    "_parentId": "5f356effed475307f07921c9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "KESEDERAJATAN",
+    "displayTitle": "KESEDERAJATAN",
+    "body": "<p>Kesederajatan adalah suatu kondisi dimana dalam perbedaan dan keragaman yang ada&nbsp; manusia tetap memiliki suatu kedudukan yang sama dan satu tingkatan hierarki.&nbsp;Kesederajatan adalah persamaan harkat, nilai, harga, taraf yang membedakan makluk yang satu dengan yang lainnya.&nbsp;Kesederajatan adalah persamaan harkat, nilai, harga, taraf yang membedakan makluk yang satu dengan yang lainnya.</p><p><strong>Persamaan,</strong> makna persamaan dalam konteks kehidupan manusia dimaksudkan sebagai suatu keadaan yang sama antara individu yang satu dengan individu lainnya, dalam konteks ini persamaan tidak bisa terlepas dari konsekuensi logis yang menyertainya yaitu <strong>kebebasan.</strong></p>",
+    "_id": "5f35701bed475307f07921d5",
+    "_parentId": "5f357006ed475307f07921d2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "UNSUR UNSUR KERAGAMAN DI INDONESIA",
+    "displayTitle": "UNSUR UNSUR KERAGAMAN DI INDONESIA",
+    "body": "",
+    "_id": "5f35709bed475307f07921d9",
+    "_parentId": "5f357081ed475307f07921d6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Keragaman yang Bersifat Vertikal (Stratifikasi Sosial)",
+        "body": "<p>Keragaman yang mengacu kepada urutan hirarkis seperti tinggi rendah. Perbedaan itu mencerminkan pola masyarakat yang mengatur kedudukan dan peranan perilaku sosial. Keragaman ini memunculkan pelapisan sosial/stratifikasi sosial dalam masyarakat. Masyarakat dibagi atas masyarakat kelas atas <em>(Upper class),</em> kelas menengah <em>(middle class</em>), kelas bawah <em>(lower class)</em>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Keragaman yang Bersifat Horizontal (Diferensiasi Sosial) ",
+        "body": "<p>Perbedaan dari sesuatu yang berbentuk fisik seperti (ras, warna kulit, bentuk muka. Warna rambut) ataupun non fisik seperti (suku, agama, budaya, sistem kekerabatan, cara berfikir dan bersikap) yang terdapat dalam masyarakat.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FAKTOR LAINNYA YANG MENYEBABKAN ADANYA KERAGAMAN DI INDONESIA",
+    "displayTitle": "FAKTOR LAINNYA YANG MENYEBABKAN ADANYA KERAGAMAN DI INDONESIA",
+    "body": "",
+    "_id": "5f357154ed475307f07921de",
+    "_parentId": "5f357114ed475307f07921da",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Keadaan&nbsp;geografis Indonesia</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Pengaruh kebudayaan asing</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Perbedaan latar belakang pendidikan</p>",
+        "next": "Dan"
+      },
+      {
+        "body": "<p>Adanya kelompok-kelompok masyarakat yang mempunyai kemampuan untuk menciptakan kriteria-kriteria yang mengakibatkan keragaman.</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk mulai",
+      "continueText": "Selanjutnya"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Perbedaan menciptakan ketegangan hubungan antar anggota masyarakat. Hal ini disebabkan oleh sifat dasar masyarakat yang beragam menurut Van de Berghe :</p><ol><li>Terjadinya segmentasi ke dalam kelompok-kelompok yang seringkali memiliki kebudayaan yang berbeda</li><li>Memiliki struktur sosial yang terbagi kedalam lembaga-lembaga yang bersifat non komplementer</li><li>Kurang mmengembangkan konsensus diantara para anggota masyarakat tentang nilai-nilai sosial yang bersifat dasar</li><li>Secara relatif seringkali terjadi konflik diantara kelompok satu dengan yang lainnya</li><li>Secara relatif integrasi sosial tumbuh diatas paksaan dan saling ketergantungan di bidang ekonomi</li><li>Adanya dominasi politik oleh suatu kelompok terhadap kelompok lain</li></ol>",
+    "_id": "5f358461ed475307f07921e2",
+    "_parentId": "5f358429ed475307f07921df",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Tercipta masalah-masalah yang menggoyahkan persatuan dan kesatuan bangsa. seperti :</p>",
+    "_id": "5f35851aed475307f07921e6",
+    "_parentId": "5f3584f4ed475307f07921e3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "height": 450,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/1bfe3eae675c31755ee8e0a0685395b8fb6d0d56.jpg",
+        "_captions": [
+          {
+            "text": "Disharmoni, adalah tidak adanya penyesuaian atas keragaman antara manusia dengan lingkungannya.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/52d9cb80ebd1cba9534190366b156c298532bb1d.jpg",
+        "_captions": [
+          {
+            "text": "Perilaku diskriminatif terhadap etnis atau kelompok masyarakat tertentu akan memunculkan kesenjangan dalam berbagai bidang.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/5f40342acaeeb7f1414d826ec964ba4b368b545d.jpg",
+        "_captions": [
+          {
+            "text": "Eksklusive, rasialis, chauvinis bersumber dari superioritas diri yang merasa suku/ras/kelompoknya lebih tinggi dari yang lain.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_component": "expose",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Pengaruh&nbsp; keragaman terhadap kehidupan bermasyarakat perpecahan persatuan dan kesatuan bangsa.</p>",
+    "_id": "5f358652ed475307f07921ee",
+    "_parentId": "5f3585f9ed475307f07921ea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_columns": 4,
+    "_animationType": "slideDown",
+    "_items": [
+      {
+        "front": "Pertama",
+        "back": {
+          "title": "",
+          "body": "<p>Mudahnya proses penghasutan oleh pihak-pihak yang tidak bertanggung jawab.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Kedua",
+        "back": {
+          "title": "",
+          "body": "<p>Peniruan budaya oleh pihak asing.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Ketiga",
+        "back": {
+          "title": "",
+          "body": "<p>Sulit menyamakan persepsi satu sama lainnya.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Keempat",
+        "back": {
+          "title": "",
+          "body": "<p>Adanya kesulitan untuk menyamakan kebutuhan pembangunan dikarenakan keragaman yang ada maka kebutuhan pembangunan juga berbeda.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Usaha-usaha untuk meminimalisir akibat dari keragaman seperti menumbuhkan :</p>",
+    "_id": "5f369a38531328160cf89a76",
+    "_parentId": "5f369a0f531328160cf89a73",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Semangat religius</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Semangat nasionalisme</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Semangat Multikuturalisme</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Semangat humanisme</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Dialog antar umat beragama</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk mulai",
+      "continueText": "Selanjutnya"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Upaya yang paling penting adalah mengembangkan/menumbuhkan kesederajatan dengan cara:</p>",
+    "_id": "5f369aca531328160cf89a78",
+    "_parentId": "5f369ab0531328160cf89a77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Upaya Pertama",
+        "_ariaLevel": 0,
+        "body": "<p>Menanamkan jiwa anti diskriminasi dalam masyarakat.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ba1a62241f94e8abe9cfbeb3835667cc62c2fca6.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Upaya Pertama"
+      },
+      {
+        "title": "Upaya Kedua",
+        "_ariaLevel": 0,
+        "body": "<p>Mengadakan program-program pendidikan yang mencakup ideologi multikulturalisme dan demokrasi serta kebangsaan.</p>",
+        "_graphic": {
+          "src": "course/en/assets/90af289bef864226e880d948640d202c414bdd9f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Upaya Kedua"
+      },
+      {
+        "title": "Upaya Ketiga",
+        "_ariaLevel": 0,
+        "body": "<p>Menumbuhkan rasa cinta tanah air , toleransi dan solidaritas antar sesama.</p>",
+        "_graphic": {
+          "src": "course/en/assets/723c0a74da4c6a96a76e66715fe21e00b71d1b5d.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Upaya Ketiga"
+      },
+      {
+        "title": "Upaya Keempat",
+        "_ariaLevel": 0,
+        "body": "<p>Tidak mengeksploitasi hal-hal yang dapat menimbulkan konflik SARA.</p>",
+        "_graphic": {
+          "src": "course/en/assets/8885c9ce67425c8923b92af8b03c3ed11ec31892.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Upaya Keempat"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Tuntutan atas kesamaan hak hak bagi setiap manusia berdasarkan pada prinsip-prinsip HAM yang bersifat universal tanpa pengecualian. Jadi sikap etnosentrisme, rasisme, religius fanatisme dipandang sebagai sikap yang menghambat pengembangan&nbsp; persamaan dan kesederajatan, demokrasi dan penegakan hukum dalam rangka pemenuhan HAM universal.</p>",
+    "_id": "5f369beb531328160cf89a80",
+    "_parentId": "5f369bd3531328160cf89a7d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Pada negara modern sekarang ini persamaan dan kederajatan dilindungi dan dijamin oleh undang-undang yang berlaku sebagai hukum positif.</p>",
+    "_id": "5f369c1d531328160cf89a82",
+    "_parentId": "5f369c05531328160cf89a81",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "height": 400,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/e9c6c4de0bf1912820aa8cc55862b47d5f9f7818.png",
+        "_captions": [
+          {
+            "text": "Persamaan secara kodrati (sebagai makhluk ciptaan Tuhan) dan persamaan secara biologis (bentuk fisik).",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/5ed376b6a24c60e12214c7771539708a1244032f.png",
+        "_captions": [
+          {
+            "text": "Persamaan secara sosial ekonomi, setiap manusia berhak untuk mendapatkan kedudukan sosial ekonomi yang sama yang dijamin oleh negara.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/6d5e976054af8f22f528beb36e45e71bab6a444e.png",
+        "_captions": [
+          {
+            "text": "Persamaan secara hukum dan undang undang, persamaan manusia didepan undang undang dari segi hak dan kewajiban dan perlindungan hukum.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Di Indonesia persaman dan kederajatan dijamin dalam UUD 1945,</p><ol><li>Pasal 27&nbsp; (1) ” setiap warga negara bersamaan kedudukan dalam hukum dan pemerintahan”.</li><li>Pasal 27 (2) ” Setiap warga negara berhak atas pekerjaan dan penghidupan yang layak”.</li><li>Pasal 28 A-J mengatur secara rinci mengenai jaminan HAM yang mengusung persamaan dan kesederajatan.</li><li>Pasal 29 mengenai kebebasan beragama.</li><li>Pasal 30 ikut serta dalam kegiatan pembelaan negara.</li><li>Pasal 31 persamaan untuk mendapat pendidikan.</li><li>Hak atas persamaan dan kesederajatan yang diatur dalam konstitusi/ UUD 1945 adalah hak konstitusional&nbsp; setiap warga negara yang harus mendapat jaminan perlindungan&nbsp;oleh negara dan hukum, Dan&nbsp;pengaturannya diatur lebih lanjut dan rinci oleh undang undang.</li></ol>",
+    "_id": "5f369cbb531328160cf89a87",
+    "_parentId": "5f369c9c531328160cf89a86",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Block 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f356db0ed475307f0792190",
+    "_parentId": "5f356db0ed475307f079218e",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/950f2fa25f98e03dba46bb36bdf613d23d728f7d.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Istilah majemuk",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-blue",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f356effed475307f07921c9",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Block faktor dan syarat",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f356db0ed475307f0792191",
+    "_parentId": "5f356db0ed475307f079218e",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/fb5430ebbff21181e9f56caef9afa8508a214572.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Kesetaraan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f357006ed475307f07921d2",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/6c436092263f794a609bae3744a1f83f1e0ba511.jpg",
+      "src": "course/en/assets/6c436092263f794a609bae3744a1f83f1e0ba511.jpg"
+    }
+  },
+  {
+    "title": "Unsur Unsur Keragaman di Indonesia",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f357081ed475307f07921d6",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png",
+      "src": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png"
+    }
+  },
+  {
+    "title": "FAKTOR LAINNYA YANG MENYEBABKAN ADANYA KERAGAMAN DI INDONESIA",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f357114ed475307f07921da",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png",
+      "src": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png"
+    }
+  },
+  {
+    "title": "Lanjutan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f358429ed475307f07921df",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/72118e0b7d7e7e7e41e7d9d90a2e4875f9282763.jpg",
+      "src": "course/en/assets/72118e0b7d7e7e7e41e7d9d90a2e4875f9282763.jpg"
+    }
+  },
+  {
+    "title": "lanjutan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3584f4ed475307f07921e3",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/625e0181443574a65a636981b0b8895817363baa.png",
+      "src": "course/en/assets/625e0181443574a65a636981b0b8895817363baa.png"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3585f9ed475307f07921ea",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png",
+      "src": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f369a0f531328160cf89a73",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png",
+      "src": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-gray",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f369ab0531328160cf89a77",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f369bd3531328160cf89a7d",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/68ee72114b6c82a3c17ce5b0de0c25b3f2cf145c.jpg",
+      "src": "course/en/assets/68ee72114b6c82a3c17ce5b0de0c25b3f2cf145c.jpg"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-gray",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f369c05531328160cf89a81",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-blue",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f369c9c531328160cf89a86",
+    "_parentId": "5f356effed475307f07921c8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  }
+]
